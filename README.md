@@ -79,7 +79,6 @@ The kNN algorithm is a simple, yet effective, lazy learning technique traditiona
 
 ### 7.2 Performance Metrics Comparison:
 <img src="https://github.com/rahoolrathi/Multi-label-KNN/assets/129182364/ebf873f8-5053-4bf8-b174-58f40deb6245" alt="Performance Metrics">
-<img src="(https://github.com/rahoolrathi/Multi-label-KNN/assets/129182364/813c884e-3aa5-4b26-8e35-51299aa7c80e" alt="Performance Metrics">
 <img src="https://github.com/rahoolrathi/Multi-label-KNN/assets/129182364/73cee5c6-7ed8-492c-a378-64ea5ac294c7" alt="Performance Metrics">
 <img src="https://github.com/rahoolrathi/Multi-label-KNN/assets/129182364/7c9cec91-58b5-4d73-981e-8bce91d3028d" alt="Performance Metrics">
 ### 7.3 Summary of Results:
